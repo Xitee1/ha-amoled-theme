@@ -1,0 +1,26 @@
+Amoled:
+    lovelace-background: rgba(0, 0, 0, 1) # Lovelace BG color
+    ha-card-background: rgba(20, 20, 20, 1) # Card BG color (lovelace + settings)
+    card-background-color: rgba(20, 20, 20, 1)
+    sidebar-background-color: rgba(0, 0, 0, 1) # Sidebar BG color
+    primary-background-color: rgba(0, 0, 0, 1) # Settings, .. BG color
+    modes:
+        dark: {}
+
+Amoled+:
+    lovelace-background: rgba(0, 0, 0, 1) # Lovelace BG color
+    #ha-card-background: rgba(20, 20, 20, 1) # Card BG color (lovelace + settings)
+    #card-background-color: rgba(20, 20, 20, 1)
+    sidebar-background-color: rgba(0, 0, 0, 1) # Sidebar BG color
+    primary-background-color: rgba(0, 0, 0, 1) # Settings, .. BG color
+
+    # + mode
+    ha-card-border-width: 2px
+
+    ha-card-background: rgba(0, 0, 0, 1) # Card BG color (lovelace + settings)
+    card-background-color: rgba(0, 0, 0, 1)
+    app-header-background-color: rgba(0, 0, 0, 1)
+    app-header-edit-background-color: rgba(0, 0, 0, 1)
+    
+    modes:
+        dark: {}
